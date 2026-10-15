@@ -24,8 +24,8 @@ const I18N_TH = {
   'hero.l2': 'ออกแบบและพัฒนา',
   'hero.l3': 'Web Application.',
   'hero.badge1': 'ประสบการณ์ <b>7+</b> ปี',
-  'hero.badge2': 'Backend <b>5+</b> ปี · Full Stack',
-  'hero.sub': 'Full Stack &amp; Backend Developer — เชี่ยวชาญ Backend ด้วย Node.js Ecosystem (Express.js, NestJS, TypeScript) มากกว่า 5 ปี ดูแลระบบได้ตั้งแต่ฐานข้อมูล หน้าจอ จนถึง Production บน Google Cloud',
+  'hero.badge2': 'Backend <b>5+</b> ปี · Full Stack <b>2+</b> ปี',
+  'hero.sub': 'Full Stack &amp; Backend Developer — เชี่ยวชาญ Backend ด้วย Node.js, Express.js, NestJS และ TypeScript มากกว่า 5 ปี และพัฒนาแบบ Full Stack มากกว่า 2 ปี ดูแลระบบได้ตั้งแต่ฐานข้อมูล หน้าจอ จนถึง Production บน Google Cloud',
   'hero.more': 'ดูเพิ่มเติม',
 
   'process.label': 'วิธีการทำงานของฉัน',
@@ -96,8 +96,8 @@ const I18N_TH = {
   'skills.learning': 'กำลังศึกษา',
 
   'about.title': 'สร้างซอฟต์แวร์ที่<span>เสถียร มีประสิทธิภาพ และดูแลต่อได้</span>',
-  'about.p1': 'มีประสบการณ์พัฒนาซอฟต์แวร์มากกว่า 7 ปี โดยเน้นการพัฒนา Backend ด้วย Node.js Ecosystem (Express.js, NestJS, TypeScript) มากกว่า 5 ปี',
-  'about.p2': 'มีประสบการณ์ในการออกแบบและพัฒนา REST API, Database และ Business Logic สำหรับใช้งานจริง โดยให้ความสำคัญกับ Performance, Stability และ Maintainability เพื่อให้ระบบสามารถดูแลและพัฒนาต่อได้ในระยะยาว นอกจากนี้ยังมีประสบการณ์พัฒนาแบบ Full Stack ทั้ง Frontend และ Backend รวมถึงการ Deploy ระบบขึ้น Production บน Google Cloud Platform (Cloud Run, Cloud SQL, Cloud Storage) โดยใช้ Docker',
+  'about.p1': 'มีประสบการณ์พัฒนาซอฟต์แวร์มากกว่า 7 ปี เชี่ยวชาญการพัฒนา Backend ด้วย Node.js, Express.js, NestJS และ TypeScript มากกว่า 5 ปี และมีประสบการณ์พัฒนาแบบ Full Stack มากกว่า 2 ปี',
+  'about.p2': 'มีประสบการณ์ออกแบบและพัฒนา REST API, Database และ Business Logic หลักสำหรับใช้งานจริง รวมถึงพัฒนาระบบแบบ End-to-End ตั้งแต่ Frontend, Backend จนถึงการ Deploy โดยให้ความสำคัญกับ Performance, Stability และ Maintainability ในระยะยาว',
   'about.edu': 'ประวัติการศึกษา',
   'edu1.deg': 'ปริญญาตรี สาขาวิทยาการคอมพิวเตอร์',
   'edu1.school': 'มหาวิทยาลัยเทคโนโลยีราชมงคลสุวรรณภูมิ ศูนย์พระนครศรีอยุธยา หันตรา',
