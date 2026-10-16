@@ -372,16 +372,6 @@ body.contact-open .contact-back { opacity: 1; pointer-events: auto; }
 .skill-card ul { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 8px; }
 .skill-card li { background: rgba(255, 255, 255, .85); color: var(--ink); padding: 6px 12px; border-radius: 6px; font-size: .9rem; }
 .skill-card li.main { background: var(--ink); color: #fff; }
-.learning {
-  margin-top: 30px; display: flex; align-items: center; gap: 14px;
-  background: var(--ink); color: #fff; padding: 20px 26px; border-radius: var(--radius);
-  font-family: var(--font-code);
-}
-.learning .ln { color: var(--accent); }
-.learning p { margin: 0; }
-.learning .typed { color: #d5ffe1; }
-.caret { animation: blinkc .8s step-end infinite; color: var(--accent); }
-@keyframes blinkc { 50% { opacity: 0; } }
 
 /* ---------- About ---------- */
 .about-grid { display: grid; grid-template-columns: 1.4fr 1fr; gap: 50px; }

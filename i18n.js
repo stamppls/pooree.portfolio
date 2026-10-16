@@ -93,7 +93,6 @@ const I18N_TH = {
   'skills.lang': 'ภาษาโปรแกรม',
   'skills.db': 'ฐานข้อมูล',
   'skills.tools': 'เครื่องมือ',
-  'skills.learning': 'กำลังศึกษา',
 
   'about.title': 'สร้างซอฟต์แวร์ที่<span>เสถียร มีประสิทธิภาพ และดูแลต่อได้</span>',
   'about.p1': 'มีประสบการณ์พัฒนาซอฟต์แวร์มากกว่า 7 ปี เชี่ยวชาญการพัฒนา Backend ด้วย Node.js, Express.js, NestJS และ TypeScript มากกว่า 5 ปี และมีประสบการณ์พัฒนาแบบ Full Stack มากกว่า 2 ปี',

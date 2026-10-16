@@ -203,23 +203,4 @@ document.querySelectorAll('.slide-btn').forEach(btn => {
   });
 });
 
-/* ---------- "Currently learning" typer ---------- */
-const learningEl = document.getElementById('learning');
-const learning = ['React', 'PostgreSQL', 'GraphQL'];
-if (reduceMotion) {
-  learningEl.textContent = learning.join(', ');
-} else {
-  let w = 0, c = 0, deleting = false;
-  const tick = () => {
-    const word = learning[w];
-    c += deleting ? -1 : 1;
-    learningEl.textContent = word.slice(0, c);
-    let delay = deleting ? 50 : 110;
-    if (!deleting && c === word.length) { deleting = true; delay = 1400; }
-    else if (deleting && c === 0) { deleting = false; w = (w + 1) % learning.length; delay = 300; }
-    setTimeout(tick, delay);
-  };
-  tick();
-}
-
 document.getElementById('year').textContent = new Date().getFullYear();
