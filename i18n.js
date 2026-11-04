@@ -24,8 +24,8 @@ const I18N_TH = {
   'hero.l2': 'ออกแบบและพัฒนา',
   'hero.l3': 'Web Application.',
   'hero.badge1': 'ประสบการณ์ <b>7+</b> ปี',
-  'hero.badge2': 'Backend <b>5+</b> ปี · Full Stack',
-  'hero.sub': 'Software Engineer — เชี่ยวชาญ Backend ด้วย Node.js, Express.js, NestJS และ TypeScript มากกว่า 5 ปี พร้อมประสบการณ์พัฒนาแบบ Full Stack ดูแลระบบได้ตั้งแต่ฐานข้อมูล หน้าจอ จนถึง Production บน Google Cloud',
+  'hero.badge2': 'Backend · Full Stack',
+  'hero.sub': 'Software Developer — เชี่ยวชาญ Backend ด้วย Node.js, Express.js, NestJS และ TypeScript พร้อมประสบการณ์พัฒนาแบบ Full Stack ดูแลระบบได้ตั้งแต่ฐานข้อมูล หน้าจอ จนถึง Production บน Google Cloud',
   'hero.more': 'ดูเพิ่มเติม',
 
   'process.label': 'วิธีการทำงานของฉัน',
@@ -95,8 +95,8 @@ const I18N_TH = {
   'skills.tools': 'เครื่องมือ',
 
   'about.title': 'สร้างซอฟต์แวร์ที่<span>เสถียร มีประสิทธิภาพ และดูแลต่อได้</span>',
-  'about.p1': 'Software Engineer ที่มีประสบการณ์พัฒนาซอฟต์แวร์มากกว่า 7 ปี เชี่ยวชาญการพัฒนา Backend ด้วย Node.js, Express.js, NestJS และ TypeScript มากกว่า 5 ปี พร้อมประสบการณ์ลงมือพัฒนา Web Application แบบ Full Stack',
-  'about.p2': 'มีประสบการณ์ออกแบบและพัฒนา REST API, Database Schema และ Business Logic หลักสำหรับระบบธุรกิจ รวมถึงทำงานกับ CI/CD Pipeline, Docker และการ Deploy บน Google Cloud Platform (GCP) มุ่งสร้างระบบแบบ End-to-End ที่มีประสิทธิภาพ เชื่อถือได้ และดูแลต่อได้ในระยะยาว',
+  'about.p1': 'Software Developer ที่มีประสบการณ์พัฒนาซอฟต์แวร์มากกว่า 7 ปี เชี่ยวชาญการพัฒนา Backend ด้วย Node.js, Express.js, NestJS และ TypeScript พร้อมประสบการณ์ลงมือพัฒนา Web Application แบบ Full Stack',
+  'about.p2': 'มีประสบการณ์ออกแบบและพัฒนา REST API, Database Schema และ Business Logic หลักสำหรับ Application ทางธุรกิจ รวมถึงทำงานกับ CI/CD Pipeline, Docker และการ Deploy Application บน Google Cloud Platform (GCP) สามารถพัฒนาระบบแบบ End-to-End โดยให้ความสำคัญกับประสิทธิภาพ ความเสถียร และการดูแลต่อได้ในระยะยาว',
   'about.edu': 'ประวัติการศึกษา',
   'edu1.deg': 'ปริญญาตรี สาขาวิทยาการคอมพิวเตอร์',
   'edu1.school': 'มหาวิทยาลัยเทคโนโลยีราชมงคลสุวรรณภูมิ ศูนย์พระนครศรีอยุธยา หันตรา',
