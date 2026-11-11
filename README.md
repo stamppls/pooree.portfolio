@@ -25,7 +25,7 @@ Design inspired by [briceclain.com](https://briceclain.com/en/).
 ├── script.js                   # Language switch, typewriter, scroll reveal, contact panel
 ├── i18n.js                     # Thai translations
 ├── profile.png                 # Profile photo
-├── Resume-Pooree-EN.pdf        # Resume (English)
+├── Resume-Pooree-English.pdf   # Resume (English)
 └── Resume-Pooree-Thai.pdf      # Resume (Thai)
 ```
 

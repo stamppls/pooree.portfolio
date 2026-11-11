@@ -71,7 +71,7 @@ const I18N_TH = {
   'exp.title': 'ประสบการณ์<span>ทำงาน</span>',
   'exp.j1.period': '2564 — ปัจจุบัน',
   'exp.j1.list': `
-    <li>วิเคราะห์และออกแบบสถาปัตยกรรมระบบแบบ End-to-End และ Flow Diagram</li>
+    <li>วิเคราะห์ความต้องการทางธุรกิจ ออกแบบสถาปัตยกรรมระบบและ Workflow ของ Application</li>
     <li>วิเคราะห์ความต้องการสำหรับ REST API, Database Schema และ Business Logic</li>
     <li>พัฒนาและทดสอบโมดูลทั้งฝั่ง Frontend และ Backend</li>
     <li>วาง CI/CD Pipeline และ Deploy ระบบขึ้น Google Cloud Platform ด้วย Docker</li>

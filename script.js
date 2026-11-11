@@ -3,7 +3,7 @@ const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').match
 /* ---------- Language switch (EN / TH) ---------- */
 const I18N_EN = {
   'meta.title': document.title,
-  'resume': 'Resume-Pooree-EN.pdf',
+  'resume': 'Resume-Pooree-English.pdf',
   'contact.copied': 'Copied!',
   'toast.email': 'Email copied',
   'toast.phone': 'Phone number copied',
